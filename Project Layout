@@ -1,1 +1,14 @@
+Project Layout
+	Setup UI for Chatbot (Phase1)
+		1.	Chatbot
+		2.	Streamlit
+		3.	Usage from the UI
 
+Connect to LLM (Phase2)
+	1.	Langchain
+	2.	Groq
+
+Interact RAG (Phase3)
+	1. Upload document(s)
+	2. Vector Embeddings
+	3. RAG (Retrieval Augmented Generation)
